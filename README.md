@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Octopush is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://octopush.com/
+Octopush is a French multichannel communication platform offering SMS, Email, RCS, and voice services. It provides tools for campaign management, transactional messaging, contact verification, virtual numbers, and real‑time analytics. The service targets businesses seeking high‑delivery rates and compliance across multiple channels, with integrations for Zapier, WooCommerce, and custom APIs.
+
+**Areas:** Communication · Marketing · SMS · Email · Multichannel
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.octopush.com/)
+- [Documentation](https://octopush-api.readme.io/)
+- [Pricing](https://www.octopush.com/tarifs/tarifs-sms-france)
+- [Blog](https://www.octopush.com/blog)
+- [GitHub](https://github.com/octopush)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/octopush/](https://apis.io/providers/octopush/).
